@@ -1,9 +1,0 @@
-
-
-
-
-
-
-
-
-document.getElementById("changeTextBtn")
