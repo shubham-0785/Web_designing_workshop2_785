@@ -17,7 +17,7 @@ function App() {
     console.log("Component loaded. useEffect is active.");
   }, []);
 
-  
+   
   const validate = () => {
     let tempErrors = {};
     if (!formData.name) tempErrors.name = "Name is required";
