@@ -18,7 +18,7 @@ function App() {
 
         </div>
         <div className='card'>
-            <h3>Rohan gupta</h3>
+            <h3>Rohan gupta</h3> 
             <p>Course: Electronics</p>
             <p>Marks: 78</p>
         </div>
