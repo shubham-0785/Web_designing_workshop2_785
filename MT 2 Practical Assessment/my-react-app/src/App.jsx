@@ -12,11 +12,11 @@ function App() {
             alt="Student 1"
           />
           <p>Name: Rahul Sharma</p>
-          <p>Course: B.Tech CSE</p>
+          <p>Course: B.Tech CSE</p> 
           <p>Year: 1st Year</p>
           <p>CGPA: 8.5</p>  
         </div>
-
+ 
         <div className="card">  
           <img
             src="https://img.freepik.com/free-photo/closeup-young-female-professional-making-eye-contact-against-colored-background_662251-651.jpg?semt=ais_hybrid&w=740&q=80"
