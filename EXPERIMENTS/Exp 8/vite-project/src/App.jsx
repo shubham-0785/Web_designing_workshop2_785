@@ -15,7 +15,7 @@ function App() {
   };
   return (
     <div className="container">
-      <h1>React Counter Application</h1>
+      <h1>React Counter Application</h1> 
       {/* Display Count */}
       <h2>{count}</h2>
       {/* Buttons */}
